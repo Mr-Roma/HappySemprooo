@@ -8,10 +8,10 @@ Demo :
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+   
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd 
 
     # Open it with your text editor
     $ code .
